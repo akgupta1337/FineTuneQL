@@ -1,0 +1,156 @@
+{
+    "time_table": {
+        "Monday": {
+            "09-10 AM": "Lecture / G:All C:MTH302 / R: 33-605 / S:K23WT",
+            "10-11 AM": "Lecture / G:All C:INT255 / R: 33-605 / S:K23WT",
+            "11-12 AM": "Lecture / G:All C:INT255 / R: 33-605 / S:K23WT",
+            "12-01 PM": "Lecture / G:All C:CSE211 / R: 33-605 / S:K23WT",
+            "01-02 PM": "",
+            "02-03 PM": "",
+            "03-04 PM": "",
+            "04-05 PM": ""
+        },
+        "Tuesday": {
+            "09-10 AM": "Tutorial / G:1 C:PEA305 / R: 34-704 / S:K23WT",
+            "10-11 AM": "Practical / G:0 C:CSE310 / R: 28-507A / S:K23WT",
+            "11-12 AM": "Practical / G:0 C:CSE310 / R: 28-507A / S:K23WT",
+            "12-01 PM": "",
+            "01-02 PM": "Lecture / G:All C:INT256 / R: 28-507A / S:K23WT",
+            "02-03 PM": "Lecture / G:All C:INT256 / R: 28-507A / S:K23WT",
+            "03-04 PM": "Lecture / G:All C:PEA305 / R: 28-507A / S:K23WT",
+            "04-05 PM": "Tutorial / G:1 C:MTH302 / R: 34-704 / S:K23WT"
+        },
+        "Wednesday": {
+            "09-10 AM": "",
+            "10-11 AM": "Lecture / G:All C:MTH302 / R: 28-507 / S:K23WT",
+            "11-12 AM": "Lecture / G:All C:CSE211 / R: 28-507 / S:K23WT",
+            "12-01 PM": "",
+            "01-02 PM": "Lecture / G:All C:CSE310 / R: 28-505 / S:K23WT",
+            "02-03 PM": "Lecture / G:All C:CSE310 / R: 28-505 / S:K23WT",
+            "03-04 PM": "Lecture / G:All C:CSE408 / R: 28-505 / S:K23WT",
+            "04-05 PM": ""
+        },
+        "Thursday": {
+            "09-10 AM": "",
+            "10-11 AM": "Practical / G:0 C:INT256 / R: 28-408 / S:K23WT",
+            "11-12 AM": "Practical / G:0 C:INT256 / R: 28-408 / S:K23WT",
+            "12-01 PM": "Lecture / G:All C:CSE310 / R: 28-408 / S:K23WT",
+            "01-02 PM": "",
+            "02-03 PM": "Lecture / G:All C:CSE408 / R: 33-512 / S:K23WT",
+            "03-04 PM": "Lecture / G:All C:CSE211 / R: 34-602 / S:K23WT",
+            "04-05 PM": ""
+        },
+        "Friday": {
+            "09-10 AM": "Tutorial / G:1 C:CSE211 / R: 34-805 / S:K23WT",
+            "10-11 AM": "Lecture / G:All C:MTH302 / R: 34-406 / S:K23WT",
+            "11-12 AM": "Practical / G:0 C:INT255 / R: 34-406 / S:K23WT",
+            "12-01 PM": "Practical / G:0 C:INT255 / R: 34-406 / S:K23WT",
+            "01-02 PM": "",
+            "02-03 PM": "Lecture / G:All C:CSE408 / R: 34-508 / S:K23WT",
+            "03-04 PM": "Lecture / G:All C:PEA305 / R: 34-508 / S:K23WT",
+            "04-05 PM": ""
+        },
+        "Saturday": {
+            "09-10 AM": "",
+            "10-11 AM": "",
+            "11-12 AM": "",
+            "12-01 PM": "",
+            "01-02 PM": "",
+            "02-03 PM": "",
+            "03-04 PM": "",
+            "04-05 PM": ""
+        },
+        "Sunday": {
+            "09-10 AM": "",
+            "10-11 AM": "",
+            "11-12 AM": "",
+            "12-01 PM": "",
+            "01-02 PM": "",
+            "02-03 PM": "",
+            "03-04 PM": "",
+            "04-05 PM": ""
+        }
+    },
+    "legends": {
+        "C": "Course Code",
+        "F": "Faculty",
+        "G": "Group",
+        "R": "Room",
+        "S": "Section"
+    },
+    "section": "K23WT",
+    "last_updated": "2/5/2025 9:44:26 AM",
+    "registration_number": "12309014",
+    "faculty_details": {
+        "CSE211": {
+            "course_title": "COMPUTER ORGANIZATION AND DESIGN",
+            "lectures": "3",
+            "tutorials": "1",
+            "practical": "0",
+            "credits": "4",
+            "faculty_name": "Manjinder Singh",
+            "cabin": "25-202-CH21",
+            "last_updated": "Aug 24 2024 11:24AM"
+        },
+        "CSE310": {
+            "course_title": "PROGRAMMING IN JAVA",
+            "lectures": "3",
+            "tutorials": "0",
+            "practical": "2",
+            "credits": "4",
+            "faculty_name": "Amit Sharma",
+            "cabin": "36-307-CH11",
+            "last_updated": "Jan 16 2025 10:54AM"
+        },
+        "CSE408": {
+            "course_title": "DESIGN AND ANALYSIS OF ALGORITHMS",
+            "lectures": "3",
+            "tutorials": "0",
+            "practical": "0",
+            "credits": "3",
+            "faculty_name": "Vipin Kumar Chaudhary",
+            "cabin": "NA",
+            "last_updated": "NA"
+        },
+        "INT255": {
+            "course_title": "MATHEMATICS BEHIND MACHINE LEARNING",
+            "lectures": "2",
+            "tutorials": "2",
+            "practical": "0",
+            "credits": "3",
+            "faculty_name": "Abhinav Singh",
+            "cabin": "34-209-CH14",
+            "last_updated": "Aug  3 2024 10:48AM"
+        },
+        "INT256": {
+            "course_title": "SOFT COMPUTING",
+            "lectures": "2",
+            "tutorials": "0",
+            "practical": "2",
+            "credits": "3",
+            "faculty_name": "Sheveta",
+            "cabin": "34-207-CH4",
+            "last_updated": "Aug  3 2024 10:17AM"
+        },
+        "MTH302": {
+            "course_title": "PROBABILITY AND STATISTICS",
+            "lectures": "3",
+            "tutorials": "1",
+            "practical": "0",
+            "credits": "4",
+            "faculty_name": "Dr. Rakesh Yadav",
+            "cabin": "NA",
+            "last_updated": "NA"
+        },
+        "PEA305": {
+            "course_title": "ANALYTICAL SKILLS-I",
+            "lectures": "2",
+            "tutorials": "1",
+            "practical": "0",
+            "credits": "3",
+            "faculty_name": "Sadhna",
+            "cabin": "NA",
+            "last_updated": "NA"
+        }
+    }
+}

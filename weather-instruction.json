@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "What's the weather like right now?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Can you tell me the current weather?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "How is the weather outside?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Could you provide a weather update?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Is it sunny or rainy today?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "What are the weather conditions currently?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Let me know the weather right now.",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "What does the weather look like?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "How's it looking outside weather-wise?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Can you give me the weather forecast for today?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "What's the temperature like today?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Do you know if it's cold or warm outside?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Is the weather good for going out?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Could you check if it's raining right now?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Give me the current weather status, please.",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "I'd like to know the weather conditions.",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Tell me if it's sunny, cloudy, or raining right now.",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Please update me on the weather outside.",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "What's happening with the weather today?",
+        "input": "",
+        "output": "weather()"
+    },
+    {
+        "instruction": "Is it a good day weather-wise?",
+        "input": "",
+        "output": "weather()"
+    }
+]

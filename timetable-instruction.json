@@ -1,0 +1,102 @@
+[
+    {
+        "instruction": "What's my schedule for today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Can you tell me my timetable for today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What classes do I have lined up today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Could you show me today's schedule?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What is my class schedule for today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Let me know my classes for the day.",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What do I have planned for today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Can you provide my timetable for today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "I'd like to know my upcoming classes.",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Tell me about today's schedule.",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What are my next classes?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Can you list my schedule for today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What classes are on my timetable today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What's the plan for my classes today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Can I see my schedule for the day?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Show me today's timetable.",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What's next on my schedule?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Can you give me an update on my classes today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "What do I have scheduled for today?",
+        "input": "",
+        "output": "table()"
+    },
+    {
+        "instruction": "Please provide my class schedule for today.",
+        "input": "",
+        "output": "table()"
+    }
+]

@@ -1,0 +1,282 @@
+[
+    {
+        "query": "Which class do I have in the next hour?",
+        "current_time": "08:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The current time is 08:30, and the next scheduled class at 09:00 is 'ANALYTICAL SKILLS-I'. Thus, this is the correct response."
+    },
+    {
+        "query": "Where is my next class?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'PROGRAMMING IN JAVA' at 10:00 in Room 28-507A.",
+        "thinking": "The current time is 09:30, and the next scheduled class at 10:00 is 'PROGRAMMING IN JAVA'. Therefore, this is the correct answer."
+    },
+    {
+        "query": "When is my lunch break?",
+        "current_time": "11:00 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your lunch break is at 12:00.",
+        "thinking": "Lunch break is explicitly scheduled at 12:00, so this is the correct response."
+    },
+    {
+        "query": "Which class do I have after 'SOFT COMPUTING'?",
+        "current_time": "14:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After 'SOFT COMPUTING' at 14:00, your next class is 'ANALYTICAL SKILLS-I' at 15:00 in Room 28-507A.",
+        "thinking": "Looking at the schedule, 'SOFT COMPUTING' ends at 14:00, and the next scheduled class is 'ANALYTICAL SKILLS-I' at 15:00. Therefore, this is the correct response."
+    },
+    {
+        "query": "How many classes do I have after lunch?",
+        "current_time": "12:10 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After lunch at 12:00, you have three classes: 'SOFT COMPUTING' at 13:00 and 14:00, 'ANALYTICAL SKILLS-I' at 15:00, and 'PROBABILITY AND STATISTICS' at 16:00.",
+        "thinking": "Lunch break is at 12:00, and the schedule shows three classes following lunch: 'SOFT COMPUTING' (13:00, 14:00), 'ANALYTICAL SKILLS-I' (15:00), and 'PROBABILITY AND STATISTICS' (16:00)."
+    },
+    {
+        "query": "Which is my first class today?",
+        "current_time": "07:45 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your first class today is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The first scheduled class on Tuesday is 'ANALYTICAL SKILLS-I' at 09:00, making this the correct answer."
+    },
+    {
+        "query": "If I miss my 10:00 class, when is my next class?",
+        "current_time": "10:05 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class after 10:00 is another 'PROGRAMMING IN JAVA' session at 11:00 in Room 28-507A.",
+        "thinking": "The user is currently at 10:05, meaning they missed the 10:00 class. The next scheduled class is at 11:00, another 'PROGRAMMING IN JAVA' session."
+    },
+    {
+        "query": "When is the earliest free hour I have?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your earliest free hour is at 12:00, which is the lunch break.",
+        "thinking": "The user is currently at 09:30 and has consecutive classes until lunch at 12:00, which is the first free hour."
+    },
+    {
+        "query": "Which class do I have right before lunch?",
+        "current_time": "11:15 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Right before lunch at 12:00, you have 'PROGRAMMING IN JAVA' at 11:00 in Room 28-507A.",
+        "thinking": "Lunch is at 12:00, and the class immediately before it is 'PROGRAMMING IN JAVA' at 11:00. This makes the response correct."
+    },
+    {
+        "query": "How many total classes do I have today?",
+        "current_time": "06:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "You have seven classes today: \n09:00 - ANALYTICAL SKILLS-I \n10:00 - PROGRAMMING IN JAVA \n11:00 - PROGRAMMING IN JAVA \n13:00 - SOFT COMPUTING \n14:00 - SOFT COMPUTING \n15:00 - ANALYTICAL SKILLS-I \n16:00 - PROBABILITY AND STATISTICS.",
+        "thinking": "Summing up all scheduled classes on Tuesday, the total comes to seven. Lunch break is excluded as it is not a class."
+    },
+    {
+        "query": "Which class do I have in the next hour?",
+        "current_time": "08:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The current time is 08:30, and the next scheduled class at 09:00 is 'ANALYTICAL SKILLS-I'. Thus, this is the correct response."
+    },
+    {
+        "query": "Where is my next class?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'PROGRAMMING IN JAVA' at 10:00 in Room 28-507A.",
+        "thinking": "The current time is 09:30, and the next scheduled class at 10:00 is 'PROGRAMMING IN JAVA'. Therefore, this is the correct answer."
+    },
+    {
+        "query": "When is my lunch break?",
+        "current_time": "11:00 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your lunch break is at 12:00.",
+        "thinking": "Lunch break is explicitly scheduled at 12:00, so this is the correct response."
+    },
+    {
+        "query": "Which class do I have after 'SOFT COMPUTING'?",
+        "current_time": "14:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After 'SOFT COMPUTING' at 14:00, your next class is 'ANALYTICAL SKILLS-I' at 15:00 in Room 28-507A.",
+        "thinking": "Looking at the schedule, 'SOFT COMPUTING' ends at 14:00, and the next scheduled class is 'ANALYTICAL SKILLS-I' at 15:00. Therefore, this is the correct response."
+    },
+    {
+        "query": "How many classes do I have after lunch?",
+        "current_time": "12:10 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After lunch at 12:00, you have three classes: 'SOFT COMPUTING' at 13:00 and 14:00, 'ANALYTICAL SKILLS-I' at 15:00, and 'PROBABILITY AND STATISTICS' at 16:00.",
+        "thinking": "Lunch break is at 12:00, and the schedule shows three classes following lunch: 'SOFT COMPUTING' (13:00, 14:00), 'ANALYTICAL SKILLS-I' (15:00), and 'PROBABILITY AND STATISTICS' (16:00)."
+    },
+    {
+        "query": "Which is my first class today?",
+        "current_time": "07:45 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your first class today is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The first scheduled class on Tuesday is 'ANALYTICAL SKILLS-I' at 09:00, making this the correct answer."
+    },
+    {
+        "query": "If I miss my 10:00 class, when is my next class?",
+        "current_time": "10:05 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class after 10:00 is another 'PROGRAMMING IN JAVA' session at 11:00 in Room 28-507A.",
+        "thinking": "The user is currently at 10:05, meaning they missed the 10:00 class. The next scheduled class is at 11:00, another 'PROGRAMMING IN JAVA' session."
+    },
+    {
+        "query": "When is the earliest free hour I have?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your earliest free hour is at 12:00, which is the lunch break.",
+        "thinking": "The user is currently at 09:30 and has consecutive classes until lunch at 12:00, which is the first free hour."
+    },
+    {
+        "query": "Which class do I have right before lunch?",
+        "current_time": "11:15 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Right before lunch at 12:00, you have 'PROGRAMMING IN JAVA' at 11:00 in Room 28-507A.",
+        "thinking": "Lunch is at 12:00, and the class immediately before it is 'PROGRAMMING IN JAVA' at 11:00. This makes the response correct."
+    },
+    {
+        "query": "How many total classes do I have today?",
+        "current_time": "06:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "You have seven classes today: \n09:00 - ANALYTICAL SKILLS-I \n10:00 - PROGRAMMING IN JAVA \n11:00 - PROGRAMMING IN JAVA \n13:00 - SOFT COMPUTING \n14:00 - SOFT COMPUTING \n15:00 - ANALYTICAL SKILLS-I \n16:00 - PROBABILITY AND STATISTICS.",
+        "thinking": "Summing up all scheduled classes on Tuesday, the total comes to seven. Lunch break is excluded as it is not a class."
+    },
+    {
+        "query": "Which class do I have in the next hour?",
+        "current_time": "08:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The current time is 08:30, and the next scheduled class at 09:00 is 'ANALYTICAL SKILLS-I'. Thus, this is the correct response."
+    },
+    {
+        "query": "Where is my next class?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'PROGRAMMING IN JAVA' at 10:00 in Room 28-507A.",
+        "thinking": "The current time is 09:30, and the next scheduled class at 10:00 is 'PROGRAMMING IN JAVA'. Therefore, this is the correct answer."
+    },
+    {
+        "query": "When is my lunch break?",
+        "current_time": "11:00 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your lunch break is at 12:00.",
+        "thinking": "Lunch break is explicitly scheduled at 12:00, so this is the correct response."
+    },
+    {
+        "query": "Which class do I have after 'SOFT COMPUTING'?",
+        "current_time": "14:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After 'SOFT COMPUTING' at 14:00, your next class is 'ANALYTICAL SKILLS-I' at 15:00 in Room 28-507A.",
+        "thinking": "Looking at the schedule, 'SOFT COMPUTING' ends at 14:00, and the next scheduled class is 'ANALYTICAL SKILLS-I' at 15:00. Therefore, this is the correct response."
+    },
+    {
+        "query": "How many classes do I have after lunch?",
+        "current_time": "12:10 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After lunch at 12:00, you have three classes: 'SOFT COMPUTING' at 13:00 and 14:00, 'ANALYTICAL SKILLS-I' at 15:00, and 'PROBABILITY AND STATISTICS' at 16:00.",
+        "thinking": "Lunch break is at 12:00, and the schedule shows three classes following lunch: 'SOFT COMPUTING' (13:00, 14:00), 'ANALYTICAL SKILLS-I' (15:00), and 'PROBABILITY AND STATISTICS' (16:00)."
+    },
+    {
+        "query": "Which is my first class today?",
+        "current_time": "07:45 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your first class today is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The first scheduled class on Tuesday is 'ANALYTICAL SKILLS-I' at 09:00, making this the correct answer."
+    },
+    {
+        "query": "If I miss my 10:00 class, when is my next class?",
+        "current_time": "10:05 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class after 10:00 is another 'PROGRAMMING IN JAVA' session at 11:00 in Room 28-507A.",
+        "thinking": "The user is currently at 10:05, meaning they missed the 10:00 class. The next scheduled class is at 11:00, another 'PROGRAMMING IN JAVA' session."
+    },
+    {
+        "query": "When is the earliest free hour I have?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your earliest free hour is at 12:00, which is the lunch break.",
+        "thinking": "The user is currently at 09:30 and has consecutive classes until lunch at 12:00, which is the first free hour."
+    },
+    {
+        "query": "Which class do I have right before lunch?",
+        "current_time": "11:15 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Right before lunch at 12:00, you have 'PROGRAMMING IN JAVA' at 11:00 in Room 28-507A.",
+        "thinking": "Lunch is at 12:00, and the class immediately before it is 'PROGRAMMING IN JAVA' at 11:00. This makes the response correct."
+    },
+    {
+        "query": "How many total classes do I have today?",
+        "current_time": "06:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "You have seven classes today: \n09:00 - ANALYTICAL SKILLS-I \n10:00 - PROGRAMMING IN JAVA \n11:00 - PROGRAMMING IN JAVA \n13:00 - SOFT COMPUTING \n14:00 - SOFT COMPUTING \n15:00 - ANALYTICAL SKILLS-I \n16:00 - PROBABILITY AND STATISTICS.",
+        "thinking": "Summing up all scheduled classes on Tuesday, the total comes to seven. Lunch break is excluded as it is not a class."
+    },
+    {
+        "query": "Which class do I have in the next hour?",
+        "current_time": "08:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The current time is 08:30, and the next scheduled class at 09:00 is 'ANALYTICAL SKILLS-I'. Thus, this is the correct response."
+    },
+    {
+        "query": "Where is my next class?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class is 'PROGRAMMING IN JAVA' at 10:00 in Room 28-507A.",
+        "thinking": "The current time is 09:30, and the next scheduled class at 10:00 is 'PROGRAMMING IN JAVA'. Therefore, this is the correct answer."
+    },
+    {
+        "query": "When is my lunch break?",
+        "current_time": "11:00 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your lunch break is at 12:00.",
+        "thinking": "Lunch break is explicitly scheduled at 12:00, so this is the correct response."
+    },
+    {
+        "query": "Which class do I have after 'SOFT COMPUTING'?",
+        "current_time": "14:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After 'SOFT COMPUTING' at 14:00, your next class is 'ANALYTICAL SKILLS-I' at 15:00 in Room 28-507A.",
+        "thinking": "Looking at the schedule, 'SOFT COMPUTING' ends at 14:00, and the next scheduled class is 'ANALYTICAL SKILLS-I' at 15:00. Therefore, this is the correct response."
+    },
+    {
+        "query": "How many classes do I have after lunch?",
+        "current_time": "12:10 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "After lunch at 12:00, you have three classes: 'SOFT COMPUTING' at 13:00 and 14:00, 'ANALYTICAL SKILLS-I' at 15:00, and 'PROBABILITY AND STATISTICS' at 16:00.",
+        "thinking": "Lunch break is at 12:00, and the schedule shows three classes following lunch: 'SOFT COMPUTING' (13:00, 14:00), 'ANALYTICAL SKILLS-I' (15:00), and 'PROBABILITY AND STATISTICS' (16:00)."
+    },
+    {
+        "query": "Which is my first class today?",
+        "current_time": "07:45 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your first class today is 'ANALYTICAL SKILLS-I' at 09:00 in Room 34-704.",
+        "thinking": "The first scheduled class on Tuesday is 'ANALYTICAL SKILLS-I' at 09:00, making this the correct answer."
+    },
+    {
+        "query": "If I miss my 10:00 class, when is my next class?",
+        "current_time": "10:05 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your next class after 10:00 is another 'PROGRAMMING IN JAVA' session at 11:00 in Room 28-507A.",
+        "thinking": "The user is currently at 10:05, meaning they missed the 10:00 class. The next scheduled class is at 11:00, another 'PROGRAMMING IN JAVA' session."
+    },
+    {
+        "query": "When is the earliest free hour I have?",
+        "current_time": "09:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Your earliest free hour is at 12:00, which is the lunch break.",
+        "thinking": "The user is currently at 09:30 and has consecutive classes until lunch at 12:00, which is the first free hour."
+    },
+    {
+        "query": "Which class do I have right before lunch?",
+        "current_time": "11:15 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "Right before lunch at 12:00, you have 'PROGRAMMING IN JAVA' at 11:00 in Room 28-507A.",
+        "thinking": "Lunch is at 12:00, and the class immediately before it is 'PROGRAMMING IN JAVA' at 11:00. This makes the response correct."
+    },
+    {
+        "query": "How many total classes do I have today?",
+        "current_time": "06:30 Tuesday",
+        "context": "Time Table Of Tuesday...",
+        "response": "You have seven classes today: \n09:00 - ANALYTICAL SKILLS-I \n10:00 - PROGRAMMING IN JAVA \n11:00 - PROGRAMMING IN JAVA \n13:00 - SOFT COMPUTING \n14:00 - SOFT COMPUTING \n15:00 - ANALYTICAL SKILLS-I \n16:00 - PROBABILITY AND STATISTICS.",
+        "thinking": "Summing up all scheduled classes on Tuesday, the total comes to seven. Lunch break is excluded as it is not a class."
+    }
+]
