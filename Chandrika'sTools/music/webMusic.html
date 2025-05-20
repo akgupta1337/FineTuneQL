@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chandrika's Music</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <form id="form">
+      <input type="text" id="url" placeholder="Enter Title" required>
+      <button>Search Video</button>
+    </form>
+    
+    <div id="player-container">
+      <div id="player"></div>
+    </div>
+    <button onclick="loadPlaylist()">Load Playlist</button>
+    <button onclick="playVideo()">Play Video</button>
+    <button onclick="pauseVideo()">Pause Video</button>
+    <button onclick="nextVideo()">Next Video</button>
+    <button onclick="prevVideo()">Previous Video</button>
+  </body>
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="script.js"></script>
+</html>
